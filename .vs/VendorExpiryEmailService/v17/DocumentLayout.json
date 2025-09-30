@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4D1550-851A-48F9-AA91-7F2D23D17939}|VendorExpiryEmailService\\VendorExpiryEmailService.csproj|c:\\users\\acer\\desktop\\eros\\vendorexpiryemailservice\\vendorexpiryemailservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4D1550-851A-48F9-AA91-7F2D23D17939}|VendorExpiryEmailService\\VendorExpiryEmailService.csproj|solutionrelative:vendorexpiryemailservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4D1550-851A-48F9-AA91-7F2D23D17939}|VendorExpiryEmailService\\VendorExpiryEmailService.csproj|C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\vendorexpiryemailservice\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4D1550-851A-48F9-AA91-7F2D23D17939}|VendorExpiryEmailService\\VendorExpiryEmailService.csproj|solutionrelative:vendorexpiryemailservice\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4D1550-851A-48F9-AA91-7F2D23D17939}|VendorExpiryEmailService\\VendorExpiryEmailService.csproj|C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\vendorexpiryemailservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F4D1550-851A-48F9-AA91-7F2D23D17939}|VendorExpiryEmailService\\VendorExpiryEmailService.csproj|solutionrelative:vendorexpiryemailservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\VendorExpiryEmailService\\App.config",
+              "RelativeDocumentMoniker": "VendorExpiryEmailService\\App.config",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\VendorExpiryEmailService\\App.config",
+              "RelativeToolTip": "VendorExpiryEmailService\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-12T04:46:05.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\VendorExpiryEmailService\\Service1.cs",
+              "RelativeDocumentMoniker": "VendorExpiryEmailService\\Service1.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\VendorExpiryEmailService\\Service1.cs",
+              "RelativeToolTip": "VendorExpiryEmailService\\Service1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwLAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:30:15.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\VendorExpiryEmailService\\Service1.Designer.cs",
+              "RelativeDocumentMoniker": "VendorExpiryEmailService\\Service1.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Eros\\VendorExpiryEmailService\\VendorExpiryEmailService\\Service1.Designer.cs",
+              "RelativeToolTip": "VendorExpiryEmailService\\Service1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:12:41.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

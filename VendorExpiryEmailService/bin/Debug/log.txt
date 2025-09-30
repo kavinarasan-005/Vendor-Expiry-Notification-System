@@ -1,0 +1,233 @@
+6/14/2025 2:49:20 AM: Service started.
+6/14/2025 2:50:20 AM: Timer ticked.
+6/14/2025 2:50:20 AM: Service task error: Keyword not supported: 'port'.
+6/14/2025 2:51:20 AM: Timer ticked.
+6/14/2025 2:51:20 AM: Service task error: Keyword not supported: 'port'.
+6/14/2025 2:52:20 AM: Timer ticked.
+6/14/2025 2:52:20 AM: Service task error: Keyword not supported: 'port'.
+6/14/2025 2:53:20 AM: Timer ticked.
+6/14/2025 2:53:20 AM: Service task error: Keyword not supported: 'port'.
+6/14/2025 2:53:29 AM: Service stopped.
+6/14/2025 2:53:41 AM: Service started.
+6/14/2025 2:54:41 AM: Timer ticked.
+6/14/2025 2:54:41 AM: Service task error: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+6/14/2025 2:55:41 AM: Timer ticked.
+6/14/2025 2:55:41 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 2:55:52 AM: Service stopped.
+6/14/2025 3:03:53 AM: Service started.
+6/14/2025 3:04:53 AM: Timer ticked.
+6/14/2025 3:04:53 AM: Service task error: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+6/14/2025 3:05:53 AM: Timer ticked.
+6/14/2025 3:05:53 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:06:21 AM: Service stopped.
+6/14/2025 3:11:22 AM: Service started.
+6/14/2025 3:12:22 AM: Timer ticked.
+6/14/2025 3:12:23 AM: Service task error: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+6/14/2025 3:13:22 AM: Timer ticked.
+6/14/2025 3:13:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:14:22 AM: Timer ticked.
+6/14/2025 3:14:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:15:22 AM: Timer ticked.
+6/14/2025 3:15:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:16:22 AM: Timer ticked.
+6/14/2025 3:16:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:17:22 AM: Timer ticked.
+6/14/2025 3:17:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:18:22 AM: Timer ticked.
+6/14/2025 3:18:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:19:22 AM: Timer ticked.
+6/14/2025 3:19:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:20:22 AM: Timer ticked.
+6/14/2025 3:20:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:21:22 AM: Timer ticked.
+6/14/2025 3:21:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:22:22 AM: Timer ticked.
+6/14/2025 3:22:22 AM: Service task error: Internal connection fatal error. Error state: 18
+6/14/2025 3:23:04 AM: Service stopped.
+6/14/2025 3:23:26 AM: Service started.
+6/14/2025 3:24:26 AM: Timer ticked.
+6/14/2025 3:24:27 AM: Service task error: Object reference not set to an instance of an object.
+6/14/2025 3:25:26 AM: Timer ticked.
+6/14/2025 3:25:26 AM: Service task error: Object reference not set to an instance of an object.
+6/14/2025 3:25:44 AM: Service stopped.
+6/11/2025 4:36:50 PM: Service started.
+6/11/2025 4:37:50 PM: Timer ticked.
+6/11/2025 4:37:50 PM: Service task error: Object reference not set to an instance of an object.
+6/11/2025 4:38:50 PM: Timer ticked.
+6/11/2025 4:38:50 PM: Service task error: Object reference not set to an instance of an object.
+6/11/2025 4:39:25 PM: Service stopped.
+6/11/2025 4:43:54 PM: Service started.
+6/11/2025 4:44:54 PM: Timer ticked.
+6/11/2025 4:44:55 PM: Service task error: Table 'emailsendermain.vendors' doesn't exist
+6/11/2025 4:45:23 PM: Service stopped.
+6/11/2025 4:50:03 PM: Service started.
+6/11/2025 4:51:03 PM: Timer ticked.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:04 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:51:07 PM: CSV report email sent to admin.
+6/11/2025 4:51:07 PM: All tasks completed successfully.
+6/11/2025 4:52:03 PM: Timer ticked.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:03 PM: Warning: Vendor data incomplete for expiry alert.
+6/11/2025 4:52:07 PM: CSV report email sent to admin.
+6/11/2025 4:52:07 PM: All tasks completed successfully.
+6/11/2025 4:52:26 PM: Service stopped.
+6/11/2025 4:57:59 PM: Service started.
+6/11/2025 4:58:59 PM: Timer ticked.
+6/11/2025 4:59:03 PM: Expiry alert sent to showtv4475@gmail.com (Days left: 15)
+6/11/2025 4:59:06 PM: Expiry alert sent to showtv4475@gmail.com (Days left: -60)
+6/11/2025 4:59:09 PM: Expiry alert sent to kavinarasan2013@gmail.com (Days left: -15)
+6/11/2025 4:59:11 PM: Expiry alert sent to showtv4475@gmail.com (Days left: 15)
+6/11/2025 4:59:15 PM: Expiry alert sent to kavinarasan2013@gmail.com (Days left: -15)
+6/11/2025 4:59:18 PM: Expiry alert sent to showtv4475@gmail.com (Days left: -60)
+6/11/2025 4:59:22 PM: Expiry alert sent to showtv4475@gmail.com (Days left: 15)
+6/11/2025 4:59:25 PM: Expiry alert sent to kavinarasan2013@gmail.com (Days left: 15)
+6/11/2025 4:59:28 PM: CSV report email sent to admin.
+6/11/2025 4:59:28 PM: All tasks completed successfully.
+6/11/2025 4:59:59 PM: Timer ticked.
+6/11/2025 5:00:03 PM: Expiry alert sent to showtv4475@gmail.com (Days left: 15)
+6/11/2025 5:00:05 PM: Expiry alert sent to showtv4475@gmail.com (Days left: -60)
+6/11/2025 5:00:08 PM: Expiry alert sent to kavinarasan2013@gmail.com (Days left: -15)
+6/11/2025 5:00:18 PM: Expiry alert sent to showtv4475@gmail.com (Days left: 15)
+6/11/2025 5:00:26 PM: Expiry alert sent to kavinarasan2013@gmail.com (Days left: -15)
+6/11/2025 5:00:28 PM: Service stopped.
+6/11/2025 5:23:06 PM: Service started.
+6/11/2025 5:24:06 PM: Timer ticked.
+6/11/2025 5:24:09 PM: Expiry alert sent to showtv4475@gmail.com,kavinarasan2013@gmail.com for expiry date 2025-06-26
+6/11/2025 5:24:11 PM: Expiry alert sent to showtv4475@gmail.com for expiry date 2025-04-12
+6/11/2025 5:24:14 PM: Expiry alert sent to kavinarasan2013@gmail.com for expiry date 2025-05-27
+6/11/2025 5:24:18 PM: CSV report email sent to vendors.
+6/11/2025 5:24:18 PM: All tasks completed successfully.
+6/11/2025 5:25:06 PM: Timer ticked.
+6/11/2025 5:25:09 PM: Expiry alert sent to showtv4475@gmail.com,kavinarasan2013@gmail.com for expiry date 2025-06-26
+6/11/2025 5:25:11 PM: Expiry alert sent to showtv4475@gmail.com for expiry date 2025-04-12
+6/11/2025 5:25:13 PM: Expiry alert sent to kavinarasan2013@gmail.com for expiry date 2025-05-27
+6/11/2025 5:25:16 PM: CSV report email sent to vendors.
+6/11/2025 5:25:16 PM: All tasks completed successfully.
+6/11/2025 5:26:06 PM: Timer ticked.
+6/11/2025 5:26:09 PM: Expiry alert sent to showtv4475@gmail.com,kavinarasan2013@gmail.com for expiry date 2025-06-26
+6/11/2025 5:26:11 PM: Expiry alert sent to showtv4475@gmail.com for expiry date 2025-04-12
+6/11/2025 5:26:14 PM: Expiry alert sent to kavinarasan2013@gmail.com for expiry date 2025-05-27
+6/11/2025 5:26:17 PM: CSV report email sent to vendors.
+6/11/2025 5:26:17 PM: All tasks completed successfully.
+6/11/2025 5:27:06 PM: Timer ticked.
+6/11/2025 5:27:09 PM: Expiry alert sent to showtv4475@gmail.com,kavinarasan2013@gmail.com for expiry date 2025-06-26
+6/11/2025 5:27:11 PM: Expiry alert sent to showtv4475@gmail.com for expiry date 2025-04-12
+6/11/2025 5:27:13 PM: Expiry alert sent to kavinarasan2013@gmail.com for expiry date 2025-05-27
+6/11/2025 5:27:16 PM: CSV report email sent to vendors.
+6/11/2025 5:27:16 PM: All tasks completed successfully.
+6/11/2025 5:28:06 PM: Timer ticked.
+6/11/2025 5:28:09 PM: Expiry alert sent to showtv4475@gmail.com,kavinarasan2013@gmail.com for expiry date 2025-06-26
+6/11/2025 5:28:11 PM: Expiry alert sent to showtv4475@gmail.com for expiry date 2025-04-12
+6/11/2025 5:28:13 PM: Expiry alert sent to kavinarasan2013@gmail.com for expiry date 2025-05-27
+6/11/2025 5:28:15 PM: Service stopped.
+Service started at: 6/12/2025 11:03:05 AM
+Error: Unable to connect to any of the specified MySQL hosts
+Email sent at: 6/12/2025 11:05:05 AM
+Service stopped at: 6/12/2025 11:05:44 AM
+Service started at: 6/12/2025 11:12:48 AM
+Error: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'vendor_db'
+Email sent at: 6/12/2025 11:16:48 AM
+Service stopped at: 6/12/2025 11:28:27 AM
+Service started at: 6/12/2025 11:28:45 AM
+Error: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'vendor_db'
+Email sent at: 6/12/2025 11:30:45 AM
+Service stopped at: 6/12/2025 11:48:59 AM
+6/12/2025 11:57:23 AM: Service started.
+6/12/2025 11:57:23 AM: Next email scheduled at 6/12/2025 12:00:00 PM
+6/12/2025 12:00:05 PM: CSV report sent.
+6/12/2025 12:00:05 PM: Daily tasks completed.
+6/12/2025 12:00:05 PM: Next email scheduled at 6/13/2025 12:00:00 PM
+6/12/2025 12:01:04 PM: Service stopped.
+6/19/2025 5:08:45 AM: Service started.
+6/19/2025 5:08:45 AM: Next email scheduled at 6/19/2025 12:00:00 PM
+6/19/2025 9:25:36 AM: Error during daily task: Unable to connect to any of the specified MySQL hosts
+6/19/2025 9:25:36 AM: Next email scheduled at 6/19/2025 12:00:00 PM
+6/20/2025 5:21:30 AM: Error during daily task: Unable to connect to any of the specified MySQL hosts
+6/20/2025 5:21:30 AM: Next email scheduled at 6/20/2025 12:00:00 PM
+6/27/2025 10:21:24 PM: Error during daily task: Unable to connect to any of the specified MySQL hosts
+6/27/2025 10:21:24 PM: Next email scheduled at 6/28/2025 12:00:00 PM
+7/5/2025 9:18:58 PM: Error during daily task: Unable to connect to any of the specified MySQL hosts
+7/5/2025 9:18:58 PM: Next email scheduled at 7/6/2025 12:00:00 PM

@@ -1,0 +1,624 @@
+6/3/2025 12:30:12 PM: Service started.
+6/3/2025 12:39:44 PM: Service stopped.
+6/3/2025 12:40:09 PM: Service started.
+6/3/2025 12:43:48 PM: Service stopped.
+6/3/2025 12:50:04 PM: Service started.
+6/3/2025 12:57:14 PM: Service stopped.
+6/6/2025 5:56:01 PM: Service started.
+6/9/2025 8:34:53 AM: Service started.
+6/9/2025 8:48:46 AM: Service stopped.
+6/9/2025 8:58:26 AM: Service started.
+6/9/2025 8:59:26 AM: Timer ticked.
+6/9/2025 8:59:26 AM: Email check started.
+6/9/2025 8:59:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:00:26 AM: Timer ticked.
+6/9/2025 9:00:26 AM: Email check started.
+6/9/2025 9:00:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:01:26 AM: Timer ticked.
+6/9/2025 9:01:26 AM: Email check started.
+6/9/2025 9:01:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:02:26 AM: Timer ticked.
+6/9/2025 9:02:26 AM: Email check started.
+6/9/2025 9:02:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:03:26 AM: Timer ticked.
+6/9/2025 9:03:26 AM: Email check started.
+6/9/2025 9:03:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:04:26 AM: Timer ticked.
+6/9/2025 9:04:26 AM: Email check started.
+6/9/2025 9:04:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:05:26 AM: Timer ticked.
+6/9/2025 9:05:26 AM: Email check started.
+6/9/2025 9:05:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:06:26 AM: Timer ticked.
+6/9/2025 9:06:26 AM: Email check started.
+6/9/2025 9:06:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:07:26 AM: Timer ticked.
+6/9/2025 9:07:26 AM: Email check started.
+6/9/2025 9:07:26 AM: Error during CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:07:38 AM: Service stopped.
+6/9/2025 9:15:51 AM: Service started.
+6/9/2025 9:16:51 AM: Timer ticked.
+6/9/2025 9:16:51 AM: Email check started.
+6/9/2025 9:16:52 AM: Error during CheckAndSendEmails: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:17:51 AM: Timer ticked.
+6/9/2025 9:17:51 AM: Email check started.
+6/9/2025 9:17:51 AM: Error during CheckAndSendEmails: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:18:51 AM: Timer ticked.
+6/9/2025 9:18:51 AM: Email check started.
+6/9/2025 9:18:51 AM: Error during CheckAndSendEmails: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:19:51 AM: Timer ticked.
+6/9/2025 9:19:51 AM: Email check started.
+6/9/2025 9:19:51 AM: Error during CheckAndSendEmails: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:20:51 AM: Timer ticked.
+6/9/2025 9:20:51 AM: Email check started.
+6/9/2025 9:20:51 AM: Error during CheckAndSendEmails: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'emailsendermail'
+6/9/2025 9:21:31 AM: Service stopped.
+6/9/2025 9:22:53 AM: Service started.
+6/9/2025 9:23:53 AM: Timer ticked.
+6/9/2025 9:23:53 AM: Email check started.
+6/9/2025 9:23:54 AM: Total vendors processed: 30
+6/9/2025 9:23:54 AM: Sending email for 'after60' condition.
+6/9/2025 9:23:57 AM: Email sent to jammyfaron@gmail.com: Vendors Expired 60 Days Ago
+6/9/2025 9:23:57 AM: Sending email for 'after15' condition.
+6/9/2025 9:23:59 AM: Email sent to jammyfaron@gmail.com: Vendors Expired 15 Days Ago
+6/9/2025 9:23:59 AM: Email check completed.
+6/9/2025 9:24:53 AM: Timer ticked.
+6/9/2025 9:24:53 AM: Email check started.
+6/9/2025 9:24:53 AM: Total vendors processed: 30
+6/9/2025 9:24:53 AM: Sending email for 'after60' condition.
+6/9/2025 9:24:56 AM: Email sent to jammyfaron@gmail.com: Vendors Expired 60 Days Ago
+6/9/2025 9:24:56 AM: Sending email for 'after15' condition.
+6/9/2025 9:24:58 AM: Email sent to jammyfaron@gmail.com: Vendors Expired 15 Days Ago
+6/9/2025 9:24:58 AM: Email check completed.
+6/9/2025 9:25:53 AM: Timer ticked.
+6/9/2025 9:25:53 AM: Email check started.
+6/9/2025 9:25:53 AM: Total vendors processed: 30
+6/9/2025 9:25:53 AM: Sending email for 'after60' condition.
+6/9/2025 9:25:56 AM: Email sent to jammyfaron@gmail.com: Vendors Expired 60 Days Ago
+6/9/2025 9:25:56 AM: Sending email for 'after15' condition.
+6/9/2025 9:25:59 AM: Email sent to jammyfaron@gmail.com: Vendors Expired 15 Days Ago
+6/9/2025 9:25:59 AM: Email check completed.
+6/9/2025 9:26:53 AM: Timer ticked.
+6/9/2025 9:26:53 AM: Email check started.
+6/9/2025 9:26:53 AM: Total vendors processed: 30
+6/9/2025 9:26:53 AM: Sending email for 'after60' condition.
+6/9/2025 9:26:56 AM: Email sent to jammyfaron@gmail.com: Vendors Expired 60 Days Ago
+6/9/2025 9:26:56 AM: Sending email for 'after15' condition.
+6/9/2025 9:26:59 AM: Email sent to jammyfaron@gmail.com: Vendors Expired 15 Days Ago
+6/9/2025 9:26:59 AM: Email check completed.
+6/9/2025 9:27:17 AM: Service stopped.
+6/9/2025 10:00:45 AM: Service started.
+6/9/2025 10:01:45 AM: Timer ticked.
+6/9/2025 10:01:46 AM: Email check started.
+6/9/2025 10:01:58 AM: Error during CheckAndSendEmails: Unable to connect to any of the specified MySQL hosts
+6/9/2025 10:03:38 AM: Service started.
+6/9/2025 10:04:38 AM: Timer ticked.
+6/9/2025 10:04:38 AM: Email check started.
+6/9/2025 10:04:41 AM: Error during CheckAndSendEmails: Unable to connect to any of the specified MySQL hosts
+6/9/2025 10:05:25 AM: Service stopped.
+6/9/2025 10:12:27 AM: Service started.
+6/9/2025 10:13:27 AM: Timer ticked.
+6/9/2025 10:13:27 AM: Email check started.
+6/9/2025 10:13:30 AM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 60 Days Ago
+6/9/2025 10:13:32 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:13:34 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:13:34 AM: Total vendors processed: 30
+6/9/2025 10:13:34 AM: Email check completed.
+6/9/2025 10:14:27 AM: Timer ticked.
+6/9/2025 10:14:27 AM: Email check started.
+6/9/2025 10:14:29 AM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 60 Days Ago
+6/9/2025 10:14:32 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:14:35 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:14:35 AM: Total vendors processed: 30
+6/9/2025 10:14:35 AM: Email check completed.
+6/9/2025 10:15:27 AM: Timer ticked.
+6/9/2025 10:15:27 AM: Email check started.
+6/9/2025 10:15:29 AM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 60 Days Ago
+6/9/2025 10:15:33 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:15:35 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:15:35 AM: Total vendors processed: 30
+6/9/2025 10:15:35 AM: Email check completed.
+6/9/2025 10:15:58 AM: Service stopped.
+6/9/2025 10:37:02 AM: Service started.
+6/9/2025 10:38:02 AM: Timer ticked.
+6/9/2025 10:38:02 AM: Email check started.
+6/9/2025 10:38:06 AM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 60 Days Ago
+6/9/2025 10:38:08 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:38:11 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:38:11 AM: Total vendors processed: 30
+6/9/2025 10:38:11 AM: Email check completed.
+6/9/2025 10:39:02 AM: Timer ticked.
+6/9/2025 10:39:02 AM: Email check started.
+6/9/2025 10:39:04 AM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 60 Days Ago
+6/9/2025 10:39:07 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:39:09 AM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 10:39:09 AM: Total vendors processed: 30
+6/9/2025 10:39:09 AM: Email check completed.
+6/9/2025 10:39:50 AM: Service stopped.
+6/9/2025 12:09:14 PM: Service started.
+6/9/2025 12:10:14 PM: Timer ticked.
+6/9/2025 12:10:14 PM: Email check started.
+6/9/2025 12:10:18 PM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 20 Days Ago
+6/9/2025 12:10:20 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:10:22 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:10:22 PM: Total vendors processed: 30
+6/9/2025 12:10:22 PM: Email check completed.
+6/9/2025 12:10:23 PM: Report generation started.
+6/9/2025 12:10:23 PM: Error during GenerateExpiredVendorReport: Could not find a part of the path 'D:\crossroads_vendor_expiry_notification\ExpiredReports'.
+6/9/2025 12:11:09 PM: Service stopped.
+6/9/2025 12:12:48 PM: Service started.
+6/9/2025 12:13:48 PM: Timer ticked.
+6/9/2025 12:13:48 PM: Email check started.
+6/9/2025 12:13:50 PM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 20 Days Ago
+6/9/2025 12:13:53 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:13:55 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:13:55 PM: Total vendors processed: 30
+6/9/2025 12:13:55 PM: Email check completed.
+6/9/2025 12:13:55 PM: Report generation started.
+6/9/2025 12:13:55 PM: Error during GenerateExpiredVendorReport: Please use the static 'ExcelPackage.License' property to set the required license information from EPPlus 8 and later versions. For more info see http://epplussoftware.com/developers/licensenotsetexception.
+6/9/2025 12:14:48 PM: Timer ticked.
+6/9/2025 12:14:48 PM: Email check started.
+6/9/2025 12:14:50 PM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 20 Days Ago
+6/9/2025 12:14:52 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:14:55 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:14:55 PM: Total vendors processed: 30
+6/9/2025 12:14:55 PM: Email check completed.
+6/9/2025 12:14:55 PM: Report generation started.
+6/9/2025 12:14:55 PM: Error during GenerateExpiredVendorReport: Please use the static 'ExcelPackage.License' property to set the required license information from EPPlus 8 and later versions. For more info see http://epplussoftware.com/developers/licensenotsetexception.
+6/9/2025 12:15:48 PM: Timer ticked.
+6/9/2025 12:15:48 PM: Email check started.
+6/9/2025 12:15:50 PM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 20 Days Ago
+6/9/2025 12:15:52 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:15:55 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:15:55 PM: Total vendors processed: 30
+6/9/2025 12:15:55 PM: Email check completed.
+6/9/2025 12:15:55 PM: Report generation started.
+6/9/2025 12:15:55 PM: Error during GenerateExpiredVendorReport: Please use the static 'ExcelPackage.License' property to set the required license information from EPPlus 8 and later versions. For more info see http://epplussoftware.com/developers/licensenotsetexception.
+6/9/2025 12:16:13 PM: Service stopped.
+6/9/2025 12:50:14 PM: Service started.
+6/9/2025 12:51:14 PM: Timer ticked.
+6/9/2025 12:51:15 PM: Email check started.
+6/9/2025 12:51:17 PM: Email sent to leninmenon@gmail.com: Final Reminder: Vendor Contract Expired 20 Days Ago
+6/9/2025 12:51:20 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:51:22 PM: Email sent to kavinarasan2013@gmail.com: Notice: Vendor Contract Expired 15 Days Ago
+6/9/2025 12:51:23 PM: Error during GenerateExpiredVendorReport: Please use the static 'ExcelPackage.License' property to set the required license information from EPPlus 8 and later versions. For more info see http://epplussoftware.com/developers/licensenotsetexception.
+6/9/2025 12:51:23 PM: Total vendors processed: 30
+6/9/2025 12:51:23 PM: Email check completed.
+6/9/2025 12:51:46 PM: Service stopped.
+6/11/2025 8:48:10 AM: Service started.
+6/11/2025 8:49:10 AM: Timer ticked.
+6/11/2025 8:49:10 AM: Email check started.
+6/11/2025 8:49:10 AM: Total vendors processed: 30
+6/11/2025 8:49:11 AM: No vendors to export to Excel.
+6/11/2025 8:49:11 AM: Email check completed.
+6/11/2025 8:50:10 AM: Timer ticked.
+6/11/2025 8:50:10 AM: Email check started.
+6/11/2025 8:50:10 AM: Total vendors processed: 30
+6/11/2025 8:50:10 AM: No vendors to export to Excel.
+6/11/2025 8:50:10 AM: Email check completed.
+6/11/2025 8:50:18 AM: Service stopped.
+6/11/2025 8:58:30 AM: Service started.
+6/11/2025 8:59:30 AM: Timer ticked.
+6/11/2025 8:59:30 AM: Email check started.
+6/11/2025 8:59:30 AM: Total vendors processed: 30
+6/11/2025 8:59:30 AM: No vendors to export to Excel.
+6/11/2025 8:59:30 AM: Email check completed.
+6/11/2025 9:00:30 AM: Timer ticked.
+6/11/2025 9:00:30 AM: Email check started.
+6/11/2025 9:00:30 AM: Total vendors processed: 30
+6/11/2025 9:00:30 AM: No vendors to export to Excel.
+6/11/2025 9:00:30 AM: Email check completed.
+6/11/2025 9:00:43 AM: Service stopped.
+6/11/2025 9:03:46 AM: Service started.
+6/11/2025 9:04:46 AM: Timer ticked.
+6/11/2025 9:04:46 AM: Email check started.
+6/11/2025 9:04:47 AM: Checking: Vendor A - Expiry: 2025-04-01 - DaysToExpiry: -71 - DaysSinceExpiry: 71
+6/11/2025 9:04:47 AM: Checking: Vendor B - Expiry: 2025-06-18 - DaysToExpiry: 7 - DaysSinceExpiry: -7
+6/11/2025 9:04:47 AM: Checking: Vendor C - Expiry: 2025-04-10 - DaysToExpiry: -62 - DaysSinceExpiry: 62
+6/11/2025 9:04:47 AM: Checking: Vendor D - Expiry: 2025-04-15 - DaysToExpiry: -57 - DaysSinceExpiry: 57
+6/11/2025 9:04:47 AM: Checking: Vendor E - Expiry: 2025-04-20 - DaysToExpiry: -52 - DaysSinceExpiry: 52
+6/11/2025 9:04:47 AM: Checking: Vendor F - Expiry: 2025-04-25 - DaysToExpiry: -47 - DaysSinceExpiry: 47
+6/11/2025 9:04:47 AM: Checking: Vendor G - Expiry: 2025-04-30 - DaysToExpiry: -42 - DaysSinceExpiry: 42
+6/11/2025 9:04:47 AM: Checking: Vendor H - Expiry: 2025-05-01 - DaysToExpiry: -41 - DaysSinceExpiry: 41
+6/11/2025 9:04:47 AM: Checking: Vendor I - Expiry: 2025-05-19 - DaysToExpiry: -23 - DaysSinceExpiry: 23
+6/11/2025 9:04:47 AM: Checking: Vendor J - Expiry: 2025-05-10 - DaysToExpiry: -32 - DaysSinceExpiry: 32
+6/11/2025 9:04:47 AM: Checking: Vendor K - Expiry: 2025-05-15 - DaysToExpiry: -27 - DaysSinceExpiry: 27
+6/11/2025 9:04:47 AM: Checking: Vendor L - Expiry: 2025-05-21 - DaysToExpiry: -21 - DaysSinceExpiry: 21
+6/11/2025 9:04:47 AM: Checking: Vendor M - Expiry: 2025-05-19 - DaysToExpiry: -23 - DaysSinceExpiry: 23
+6/11/2025 9:04:47 AM: Checking: Vendor N - Expiry: 2025-05-30 - DaysToExpiry: -12 - DaysSinceExpiry: 12
+6/11/2025 9:04:47 AM: Checking: Vendor O - Expiry: 2025-06-18 - DaysToExpiry: 7 - DaysSinceExpiry: -7
+6/11/2025 9:04:47 AM: Checking: Vendor P - Expiry: 2025-06-05 - DaysToExpiry: -6 - DaysSinceExpiry: 6
+6/11/2025 9:04:47 AM: Checking: Vendor Q - Expiry: 2025-04-04 - DaysToExpiry: -68 - DaysSinceExpiry: 68
+6/11/2025 9:04:47 AM: Checking: Vendor R - Expiry: 2025-06-18 - DaysToExpiry: 7 - DaysSinceExpiry: -7
+6/11/2025 9:04:47 AM: Checking: Vendor S - Expiry: 2025-06-21 - DaysToExpiry: 10 - DaysSinceExpiry: -10
+6/11/2025 9:04:47 AM: Checking: Vendor T - Expiry: 2025-04-15 - DaysToExpiry: -57 - DaysSinceExpiry: 57
+6/11/2025 9:04:47 AM: Checking: Vendor U - Expiry: 2025-04-20 - DaysToExpiry: -52 - DaysSinceExpiry: 52
+6/11/2025 9:04:47 AM: Checking: Vendor V - Expiry: 2025-04-04 - DaysToExpiry: -68 - DaysSinceExpiry: 68
+6/11/2025 9:04:47 AM: Checking: Vendor W - Expiry: 2025-04-30 - DaysToExpiry: -42 - DaysSinceExpiry: 42
+6/11/2025 9:04:47 AM: Checking: Vendor X - Expiry: 2025-05-05 - DaysToExpiry: -37 - DaysSinceExpiry: 37
+6/11/2025 9:04:47 AM: Checking: Vendor Y - Expiry: 2025-05-10 - DaysToExpiry: -32 - DaysSinceExpiry: 32
+6/11/2025 9:04:47 AM: Checking: Vendor Z - Expiry: 2025-05-15 - DaysToExpiry: -27 - DaysSinceExpiry: 27
+6/11/2025 9:04:47 AM: Checking: Vendor AA - Expiry: 2025-05-20 - DaysToExpiry: -22 - DaysSinceExpiry: 22
+6/11/2025 9:04:47 AM: Checking: Vendor AB - Expiry: 2025-05-25 - DaysToExpiry: -17 - DaysSinceExpiry: 17
+6/11/2025 9:04:47 AM: Checking: Vendor AC - Expiry: 2025-06-01 - DaysToExpiry: -10 - DaysSinceExpiry: 10
+6/11/2025 9:04:47 AM: Checking: Vendor AD - Expiry: 2025-06-10 - DaysToExpiry: -1 - DaysSinceExpiry: 1
+6/11/2025 9:04:47 AM: Checking: ABC Ltd - Expiry: 2025-06-18 - DaysToExpiry: 7 - DaysSinceExpiry: -7
+6/11/2025 9:04:47 AM: Checking: XYZ Corp - Expiry: 2025-05-19 - DaysToExpiry: -23 - DaysSinceExpiry: 23
+6/11/2025 9:04:47 AM: Checking: PQR Inc - Expiry: 2025-04-04 - DaysToExpiry: -68 - DaysSinceExpiry: 68
+6/11/2025 9:04:47 AM: Total vendors processed: 33
+6/11/2025 9:04:47 AM: No vendors to export to Excel.
+6/11/2025 9:04:47 AM: Email check completed.
+6/11/2025 9:05:46 AM: Timer ticked.
+6/11/2025 9:05:46 AM: Email check started.
+6/11/2025 9:05:46 AM: Checking: Vendor A - Expiry: 2025-04-01 - DaysToExpiry: -71 - DaysSinceExpiry: 71
+6/11/2025 9:05:46 AM: Checking: Vendor B - Expiry: 2025-06-18 - DaysToExpiry: 7 - DaysSinceExpiry: -7
+6/11/2025 9:05:46 AM: Checking: Vendor C - Expiry: 2025-04-10 - DaysToExpiry: -62 - DaysSinceExpiry: 62
+6/11/2025 9:05:46 AM: Checking: Vendor D - Expiry: 2025-04-15 - DaysToExpiry: -57 - DaysSinceExpiry: 57
+6/11/2025 9:05:46 AM: Checking: Vendor E - Expiry: 2025-04-20 - DaysToExpiry: -52 - DaysSinceExpiry: 52
+6/11/2025 9:05:46 AM: Checking: Vendor F - Expiry: 2025-04-25 - DaysToExpiry: -47 - DaysSinceExpiry: 47
+6/11/2025 9:05:46 AM: Checking: Vendor G - Expiry: 2025-04-30 - DaysToExpiry: -42 - DaysSinceExpiry: 42
+6/11/2025 9:05:46 AM: Checking: Vendor H - Expiry: 2025-05-01 - DaysToExpiry: -41 - DaysSinceExpiry: 41
+6/11/2025 9:05:46 AM: Checking: Vendor I - Expiry: 2025-05-19 - DaysToExpiry: -23 - DaysSinceExpiry: 23
+6/11/2025 9:05:46 AM: Checking: Vendor J - Expiry: 2025-05-10 - DaysToExpiry: -32 - DaysSinceExpiry: 32
+6/11/2025 9:05:46 AM: Checking: Vendor K - Expiry: 2025-05-15 - DaysToExpiry: -27 - DaysSinceExpiry: 27
+6/11/2025 9:05:46 AM: Checking: Vendor L - Expiry: 2025-05-21 - DaysToExpiry: -21 - DaysSinceExpiry: 21
+6/11/2025 9:05:46 AM: Checking: Vendor M - Expiry: 2025-05-19 - DaysToExpiry: -23 - DaysSinceExpiry: 23
+6/11/2025 9:05:46 AM: Checking: Vendor N - Expiry: 2025-05-30 - DaysToExpiry: -12 - DaysSinceExpiry: 12
+6/11/2025 9:05:46 AM: Checking: Vendor O - Expiry: 2025-06-18 - DaysToExpiry: 7 - DaysSinceExpiry: -7
+6/11/2025 9:05:46 AM: Checking: Vendor P - Expiry: 2025-06-05 - DaysToExpiry: -6 - DaysSinceExpiry: 6
+6/11/2025 9:05:46 AM: Checking: Vendor Q - Expiry: 2025-04-04 - DaysToExpiry: -68 - DaysSinceExpiry: 68
+6/11/2025 9:05:46 AM: Checking: Vendor R - Expiry: 2025-06-18 - DaysToExpiry: 7 - DaysSinceExpiry: -7
+6/11/2025 9:05:46 AM: Checking: Vendor S - Expiry: 2025-06-21 - DaysToExpiry: 10 - DaysSinceExpiry: -10
+6/11/2025 9:05:46 AM: Checking: Vendor T - Expiry: 2025-04-15 - DaysToExpiry: -57 - DaysSinceExpiry: 57
+6/11/2025 9:05:46 AM: Checking: Vendor U - Expiry: 2025-04-20 - DaysToExpiry: -52 - DaysSinceExpiry: 52
+6/11/2025 9:05:46 AM: Checking: Vendor V - Expiry: 2025-04-04 - DaysToExpiry: -68 - DaysSinceExpiry: 68
+6/11/2025 9:05:46 AM: Checking: Vendor W - Expiry: 2025-04-30 - DaysToExpiry: -42 - DaysSinceExpiry: 42
+6/11/2025 9:05:46 AM: Checking: Vendor X - Expiry: 2025-05-05 - DaysToExpiry: -37 - DaysSinceExpiry: 37
+6/11/2025 9:05:46 AM: Checking: Vendor Y - Expiry: 2025-05-10 - DaysToExpiry: -32 - DaysSinceExpiry: 32
+6/11/2025 9:05:46 AM: Checking: Vendor Z - Expiry: 2025-05-15 - DaysToExpiry: -27 - DaysSinceExpiry: 27
+6/11/2025 9:05:46 AM: Checking: Vendor AA - Expiry: 2025-05-20 - DaysToExpiry: -22 - DaysSinceExpiry: 22
+6/11/2025 9:05:46 AM: Checking: Vendor AB - Expiry: 2025-05-25 - DaysToExpiry: -17 - DaysSinceExpiry: 17
+6/11/2025 9:05:46 AM: Checking: Vendor AC - Expiry: 2025-06-01 - DaysToExpiry: -10 - DaysSinceExpiry: 10
+6/11/2025 9:05:46 AM: Checking: Vendor AD - Expiry: 2025-06-10 - DaysToExpiry: -1 - DaysSinceExpiry: 1
+6/11/2025 9:05:46 AM: Checking: ABC Ltd - Expiry: 2025-06-18 - DaysToExpiry: 7 - DaysSinceExpiry: -7
+6/11/2025 9:05:46 AM: Checking: XYZ Corp - Expiry: 2025-05-19 - DaysToExpiry: -23 - DaysSinceExpiry: 23
+6/11/2025 9:05:46 AM: Checking: PQR Inc - Expiry: 2025-04-04 - DaysToExpiry: -68 - DaysSinceExpiry: 68
+6/11/2025 9:05:46 AM: Total vendors processed: 33
+6/11/2025 9:05:46 AM: No vendors to export to Excel.
+6/11/2025 9:05:46 AM: Email check completed.
+6/11/2025 9:06:17 AM: Service stopped.
+6/11/2025 10:12:24 AM: Service started.
+6/11/2025 10:13:24 AM: Timer ticked.
+6/11/2025 10:13:25 AM: Email check started.
+6/11/2025 10:13:25 AM: Total vendors processed: 33
+6/11/2025 10:13:25 AM: Email check completed.
+6/11/2025 10:13:25 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.xls
+6/11/2025 10:13:29 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.xls
+6/11/2025 10:14:24 AM: Timer ticked.
+6/11/2025 10:14:24 AM: Email check started.
+6/11/2025 10:14:24 AM: Total vendors processed: 33
+6/11/2025 10:14:24 AM: Email check completed.
+6/11/2025 10:14:24 AM: Error generating/sending Excel report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.xls' because it is being used by another process.
+6/11/2025 10:15:24 AM: Timer ticked.
+6/11/2025 10:15:24 AM: Email check started.
+6/11/2025 10:15:24 AM: Total vendors processed: 33
+6/11/2025 10:15:24 AM: Email check completed.
+6/11/2025 10:15:24 AM: Error generating/sending Excel report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.xls' because it is being used by another process.
+6/11/2025 10:16:24 AM: Timer ticked.
+6/11/2025 10:16:24 AM: Email check started.
+6/11/2025 10:16:24 AM: Total vendors processed: 33
+6/11/2025 10:16:24 AM: Email check completed.
+6/11/2025 10:16:24 AM: Error generating/sending Excel report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.xls' because it is being used by another process.
+6/11/2025 10:16:53 AM: Service stopped.
+6/11/2025 10:19:16 AM: Service started.
+6/11/2025 10:19:19 AM: Service stopped.
+6/11/2025 10:19:37 AM: Service started.
+6/11/2025 10:20:37 AM: Timer ticked.
+6/11/2025 10:20:37 AM: Email check started.
+6/11/2025 10:20:37 AM: Total vendors processed: 33
+6/11/2025 10:20:37 AM: Email check completed.
+6/11/2025 10:20:37 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-20-37_Vendors_Valid_More_Than_20_Days.xls
+6/11/2025 10:20:41 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-20-37_Vendors_Valid_More_Than_20_Days.xls
+6/11/2025 10:21:37 AM: Timer ticked.
+6/11/2025 10:21:37 AM: Email check started.
+6/11/2025 10:21:37 AM: Total vendors processed: 33
+6/11/2025 10:21:37 AM: Email check completed.
+6/11/2025 10:21:37 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-21-37_Vendors_Valid_More_Than_20_Days.xls
+6/11/2025 10:21:40 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-21-37_Vendors_Valid_More_Than_20_Days.xls
+6/11/2025 10:22:37 AM: Timer ticked.
+6/11/2025 10:22:37 AM: Email check started.
+6/11/2025 10:22:37 AM: Total vendors processed: 33
+6/11/2025 10:22:37 AM: Email check completed.
+6/11/2025 10:22:37 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-22-37_Vendors_Valid_More_Than_20_Days.xls
+6/11/2025 10:22:40 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-22-37_Vendors_Valid_More_Than_20_Days.xls
+6/11/2025 10:23:08 AM: Service stopped.
+6/11/2025 10:24:58 AM: Service started.
+6/11/2025 10:25:58 AM: Timer ticked.
+6/11/2025 10:25:58 AM: Email check started.
+6/11/2025 10:25:59 AM: Total vendors processed: 33
+6/11/2025 10:25:59 AM: Email check completed.
+6/11/2025 10:25:59 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-25-59_Vendors_Valid_More_Than_20_Days.tsv
+6/11/2025 10:26:01 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-25-59_Vendors_Valid_More_Than_20_Days.tsv
+6/11/2025 10:26:58 AM: Timer ticked.
+6/11/2025 10:26:58 AM: Email check started.
+6/11/2025 10:26:58 AM: Total vendors processed: 33
+6/11/2025 10:26:58 AM: Email check completed.
+6/11/2025 10:26:58 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-26-58_Vendors_Valid_More_Than_20_Days.tsv
+6/11/2025 10:27:01 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-26-58_Vendors_Valid_More_Than_20_Days.tsv
+6/11/2025 10:27:58 AM: Timer ticked.
+6/11/2025 10:27:58 AM: Email check started.
+6/11/2025 10:27:58 AM: Total vendors processed: 33
+6/11/2025 10:27:58 AM: Email check completed.
+6/11/2025 10:27:58 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-27-58_Vendors_Valid_More_Than_20_Days.tsv
+6/11/2025 10:28:01 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_10-27-58_Vendors_Valid_More_Than_20_Days.tsv
+6/11/2025 10:28:26 AM: Service stopped.
+6/11/2025 10:31:19 AM: Service started.
+6/11/2025 10:32:19 AM: Timer ticked.
+6/11/2025 10:32:19 AM: Email check started.
+6/11/2025 10:32:20 AM: Total vendors processed: 33
+6/11/2025 10:32:20 AM: Email check completed.
+6/11/2025 10:33:19 AM: Timer ticked.
+6/11/2025 10:33:19 AM: Email check started.
+6/11/2025 10:33:19 AM: Total vendors processed: 33
+6/11/2025 10:33:19 AM: Email check completed.
+6/11/2025 10:34:19 AM: Timer ticked.
+6/11/2025 10:34:19 AM: Email check started.
+6/11/2025 10:34:19 AM: Total vendors processed: 33
+6/11/2025 10:34:19 AM: Email check completed.
+6/11/2025 10:35:19 AM: Timer ticked.
+6/11/2025 10:35:19 AM: Email check started.
+6/11/2025 10:35:19 AM: Total vendors processed: 33
+6/11/2025 10:35:19 AM: Email check completed.
+6/11/2025 10:36:19 AM: Timer ticked.
+6/11/2025 10:36:19 AM: Email check started.
+6/11/2025 10:36:19 AM: Total vendors processed: 33
+6/11/2025 10:36:19 AM: Email check completed.
+6/11/2025 10:37:19 AM: Timer ticked.
+6/11/2025 10:37:19 AM: Email check started.
+6/11/2025 10:37:19 AM: Total vendors processed: 33
+6/11/2025 10:37:19 AM: Email check completed.
+6/11/2025 10:38:19 AM: Timer ticked.
+6/11/2025 10:38:19 AM: Email check started.
+6/11/2025 10:38:19 AM: Total vendors processed: 33
+6/11/2025 10:38:19 AM: Email check completed.
+6/11/2025 10:39:19 AM: Timer ticked.
+6/11/2025 10:39:19 AM: Email check started.
+6/11/2025 10:39:19 AM: Total vendors processed: 33
+6/11/2025 10:39:19 AM: Email check completed.
+6/11/2025 10:40:19 AM: Timer ticked.
+6/11/2025 10:40:19 AM: Email check started.
+6/11/2025 10:40:19 AM: Total vendors processed: 33
+6/11/2025 10:40:19 AM: Email check completed.
+6/11/2025 10:41:19 AM: Timer ticked.
+6/11/2025 10:41:19 AM: Email check started.
+6/11/2025 10:41:19 AM: Total vendors processed: 33
+6/11/2025 10:41:19 AM: Email check completed.
+6/11/2025 10:42:19 AM: Timer ticked.
+6/11/2025 10:42:19 AM: Email check started.
+6/11/2025 10:42:19 AM: Total vendors processed: 33
+6/11/2025 10:42:19 AM: Email check completed.
+6/11/2025 10:43:19 AM: Timer ticked.
+6/11/2025 10:43:19 AM: Email check started.
+6/11/2025 10:43:19 AM: Total vendors processed: 33
+6/11/2025 10:43:19 AM: Email check completed.
+6/11/2025 10:44:19 AM: Timer ticked.
+6/11/2025 10:44:19 AM: Email check started.
+6/11/2025 10:44:19 AM: Total vendors processed: 33
+6/11/2025 10:44:19 AM: Email check completed.
+6/11/2025 10:45:19 AM: Timer ticked.
+6/11/2025 10:45:19 AM: Email check started.
+6/11/2025 10:45:19 AM: Total vendors processed: 33
+6/11/2025 10:45:19 AM: Email check completed.
+6/11/2025 10:46:19 AM: Timer ticked.
+6/11/2025 10:46:19 AM: Email check started.
+6/11/2025 10:46:19 AM: Total vendors processed: 33
+6/11/2025 10:46:19 AM: Email check completed.
+6/11/2025 10:47:19 AM: Timer ticked.
+6/11/2025 10:47:19 AM: Email check started.
+6/11/2025 10:47:19 AM: Total vendors processed: 33
+6/11/2025 10:47:19 AM: Email check completed.
+6/11/2025 10:48:19 AM: Timer ticked.
+6/11/2025 10:48:19 AM: Email check started.
+6/11/2025 10:48:19 AM: Total vendors processed: 33
+6/11/2025 10:48:19 AM: Email check completed.
+6/11/2025 10:49:19 AM: Timer ticked.
+6/11/2025 10:49:19 AM: Email check started.
+6/11/2025 10:49:19 AM: Total vendors processed: 33
+6/11/2025 10:49:19 AM: Email check completed.
+6/11/2025 10:49:30 AM: Service stopped.
+6/11/2025 10:49:49 AM: Service started.
+6/11/2025 10:50:49 AM: Timer ticked.
+6/11/2025 10:50:49 AM: Email check started.
+6/11/2025 10:50:50 AM: Total vendors processed: 33
+6/11/2025 10:50:50 AM: Email check completed.
+6/11/2025 10:51:49 AM: Timer ticked.
+6/11/2025 10:51:49 AM: Email check started.
+6/11/2025 10:51:49 AM: Total vendors processed: 33
+6/11/2025 10:51:49 AM: Email check completed.
+6/11/2025 10:52:49 AM: Timer ticked.
+6/11/2025 10:52:49 AM: Email check started.
+6/11/2025 10:52:49 AM: Total vendors processed: 33
+6/11/2025 10:52:49 AM: Email check completed.
+6/11/2025 10:53:49 AM: Timer ticked.
+6/11/2025 10:53:49 AM: Email check started.
+6/11/2025 10:53:49 AM: Total vendors processed: 33
+6/11/2025 10:53:49 AM: Email check completed.
+6/11/2025 10:54:49 AM: Timer ticked.
+6/11/2025 10:54:49 AM: Email check started.
+6/11/2025 10:54:49 AM: Total vendors processed: 33
+6/11/2025 10:54:49 AM: Email check completed.
+6/11/2025 10:55:33 AM: Service stopped.
+6/11/2025 10:56:08 AM: Service started.
+6/11/2025 10:57:08 AM: Timer ticked.
+6/11/2025 10:57:08 AM: Email check started.
+6/11/2025 10:57:08 AM: Total vendors processed: 33
+6/11/2025 10:57:08 AM: Email check completed.
+6/11/2025 10:57:30 AM: Service stopped.
+6/11/2025 11:26:45 AM: Service started.
+6/11/2025 11:27:45 AM: Timer ticked.
+6/11/2025 11:27:45 AM: Email check started.
+6/11/2025 11:27:45 AM: Total vendors processed: 33
+6/11/2025 11:27:45 AM: Email check completed.
+6/11/2025 11:27:45 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv
+6/11/2025 11:27:50 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv
+6/11/2025 11:28:45 AM: Timer ticked.
+6/11/2025 11:28:45 AM: Email check started.
+6/11/2025 11:28:45 AM: Total vendors processed: 33
+6/11/2025 11:28:45 AM: Email check completed.
+6/11/2025 11:28:45 AM: Error generating/sending Excel report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/11/2025 11:29:45 AM: Timer ticked.
+6/11/2025 11:29:45 AM: Email check started.
+6/11/2025 11:29:45 AM: Total vendors processed: 33
+6/11/2025 11:29:45 AM: Email check completed.
+6/11/2025 11:29:45 AM: Error generating/sending Excel report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/11/2025 11:30:45 AM: Timer ticked.
+6/11/2025 11:30:45 AM: Email check started.
+6/11/2025 11:30:45 AM: Total vendors processed: 33
+6/11/2025 11:30:45 AM: Email check completed.
+6/11/2025 11:30:45 AM: Error generating/sending Excel report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/11/2025 11:31:45 AM: Timer ticked.
+6/11/2025 11:31:45 AM: Email check started.
+6/11/2025 11:31:45 AM: Total vendors processed: 33
+6/11/2025 11:31:45 AM: Email check completed.
+6/11/2025 11:31:45 AM: Error generating/sending Excel report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/11/2025 11:32:45 AM: Timer ticked.
+6/11/2025 11:32:45 AM: Email check started.
+6/11/2025 11:32:45 AM: Total vendors processed: 33
+6/11/2025 11:32:45 AM: Email check completed.
+6/11/2025 11:32:45 AM: Error generating/sending Excel report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/11/2025 11:33:45 AM: Timer ticked.
+6/11/2025 11:33:45 AM: Email check started.
+6/11/2025 11:33:45 AM: Total vendors processed: 33
+6/11/2025 11:33:45 AM: Email check completed.
+6/11/2025 11:33:45 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv
+6/11/2025 11:33:48 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv
+6/11/2025 11:34:19 AM: Service stopped.
+6/11/2025 11:44:49 AM: Service started.
+6/11/2025 11:45:49 AM: Timer ticked.
+6/11/2025 11:45:49 AM: Email check started.
+6/11/2025 11:45:50 AM: Total vendors processed: 33
+6/11/2025 11:45:50 AM: Email check completed.
+6/11/2025 11:45:50 AM: Excel report for vendors > 20 days created: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv
+6/11/2025 11:45:53 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv
+6/11/2025 11:46:31 AM: Service stopped.
+6/11/2025 12:34:13 PM: Service started.
+6/11/2025 12:35:13 PM: Timer ticked.
+6/11/2025 12:35:14 PM: Email check started.
+6/11/2025 12:35:14 PM: Total vendors processed: 43
+6/11/2025 12:35:17 PM: Email sent to jammyfaron@gmail.com: Vendors Expiring in 15 Days
+6/11/2025 12:35:17 PM: Email sent for before category.
+6/11/2025 12:35:20 PM: Email sent to jammyfaron@gmail.com: Vendors Expired 60 Days Ago
+6/11/2025 12:35:20 PM: Email sent for after60 category.
+6/11/2025 12:35:23 PM: Email sent to jammyfaron@gmail.com: Vendors Expired 15 Days Ago
+6/11/2025 12:35:23 PM: Email sent for after15 category.
+6/11/2025 12:35:23 PM: Email alerts sent successfully.
+6/11/2025 12:35:26 PM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv
+6/11/2025 12:35:26 PM: CSV report email sent.
+6/11/2025 12:36:13 PM: Timer ticked.
+6/11/2025 12:36:13 PM: Email check started.
+6/11/2025 12:36:13 PM: Total vendors processed: 43
+6/11/2025 12:36:16 PM: Email sent to jammyfaron@gmail.com: Vendors Expiring in 15 Days
+6/11/2025 12:36:16 PM: Email sent for before category.
+6/11/2025 12:36:19 PM: Email sent to jammyfaron@gmail.com: Vendors Expired 60 Days Ago
+6/11/2025 12:36:19 PM: Email sent for after60 category.
+6/11/2025 12:36:21 PM: Email sent to jammyfaron@gmail.com: Vendors Expired 15 Days Ago
+6/11/2025 12:36:21 PM: Email sent for after15 category.
+6/11/2025 12:36:21 PM: Email alerts sent successfully.
+6/11/2025 12:36:21 PM: Error sending CSV report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/11/2025 12:37:13 PM: Timer ticked.
+6/11/2025 12:37:13 PM: Email check started.
+6/11/2025 12:37:13 PM: Total vendors processed: 43
+6/11/2025 12:37:18 PM: Email sent to jammyfaron@gmail.com: Vendors Expiring in 15 Days
+6/11/2025 12:37:18 PM: Email sent for before category.
+6/11/2025 12:37:21 PM: Email sent to jammyfaron@gmail.com: Vendors Expired 60 Days Ago
+6/11/2025 12:37:21 PM: Email sent for after60 category.
+6/11/2025 12:37:23 PM: Email sent to jammyfaron@gmail.com: Vendors Expired 15 Days Ago
+6/11/2025 12:37:23 PM: Email sent for after15 category.
+6/11/2025 12:37:23 PM: Email alerts sent successfully.
+6/11/2025 12:37:26 PM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv
+6/11/2025 12:37:26 PM: CSV report email sent.
+6/11/2025 12:38:13 PM: Timer ticked.
+6/11/2025 12:38:13 PM: Email check started.
+6/11/2025 12:38:13 PM: Total vendors processed: 43
+6/11/2025 12:38:18 PM: Email sent to jammyfaron@gmail.com: Vendors Expiring in 15 Days
+6/11/2025 12:38:18 PM: Email sent for before category.
+6/11/2025 12:38:20 PM: Email sent to jammyfaron@gmail.com: Vendors Expired 60 Days Ago
+6/11/2025 12:38:20 PM: Email sent for after60 category.
+6/11/2025 12:38:24 PM: Email sent to jammyfaron@gmail.com: Vendors Expired 15 Days Ago
+6/11/2025 12:38:24 PM: Email sent for after15 category.
+6/11/2025 12:38:24 PM: Email alerts sent successfully.
+6/11/2025 12:38:24 PM: Error sending CSV report: The process cannot access the file 'C:\Users\ACER\Desktop\Vendor Reports\2025-06-11_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/11/2025 12:39:12 PM: Service stopped.
+6/12/2025 8:36:28 AM: Service started.
+6/12/2025 8:37:28 AM: Timer ticked.
+6/12/2025 8:37:28 AM: Email check started.
+6/12/2025 8:37:30 AM: Error in CheckAndSendEmails: Unable to connect to any of the specified MySQL hosts
+6/12/2025 8:37:32 AM: Error sending CSV report: Unable to connect to any of the specified MySQL hosts
+6/12/2025 8:38:28 AM: Timer ticked.
+6/12/2025 8:38:28 AM: Email check started.
+6/12/2025 8:38:30 AM: Error in CheckAndSendEmails: Unable to connect to any of the specified MySQL hosts
+6/12/2025 8:38:32 AM: Error sending CSV report: Unable to connect to any of the specified MySQL hosts
+6/12/2025 8:39:28 AM: Timer ticked.
+6/12/2025 8:39:28 AM: Email check started.
+6/12/2025 8:39:30 AM: Total vendors processed: 43
+6/12/2025 8:39:30 AM: Email alerts sent successfully.
+6/12/2025 8:39:32 AM: Report email sent to showtv475@gmail.com with attachment: C:\Users\ACER\Desktop\Vendor Reports\2025-06-12_Vendors_Valid_More_Than_20_Days.csv
+6/12/2025 8:39:32 AM: CSV report email sent.
+6/12/2025 8:39:46 AM: Service stopped.
+6/12/2025 8:52:12 AM: Service started.
+6/12/2025 8:53:12 AM: Timer ticked.
+6/12/2025 8:53:12 AM: Email check started.
+6/12/2025 8:53:13 AM: Error in CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:53:13 AM: Error sending CSV report: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:54:12 AM: Timer ticked.
+6/12/2025 8:54:12 AM: Email check started.
+6/12/2025 8:54:12 AM: Error in CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:54:12 AM: Error sending CSV report: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:55:12 AM: Timer ticked.
+6/12/2025 8:55:12 AM: Email check started.
+6/12/2025 8:55:12 AM: Error in CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:55:12 AM: Error sending CSV report: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:56:12 AM: Timer ticked.
+6/12/2025 8:56:12 AM: Email check started.
+6/12/2025 8:56:12 AM: Error in CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:56:12 AM: Error sending CSV report: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:57:12 AM: Timer ticked.
+6/12/2025 8:57:12 AM: Email check started.
+6/12/2025 8:57:12 AM: Error in CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:57:12 AM: Error sending CSV report: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:58:12 AM: Timer ticked.
+6/12/2025 8:58:12 AM: Email check started.
+6/12/2025 8:58:12 AM: Error in CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:58:12 AM: Error sending CSV report: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:59:12 AM: Timer ticked.
+6/12/2025 8:59:12 AM: Email check started.
+6/12/2025 8:59:12 AM: Error in CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 8:59:12 AM: Error sending CSV report: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 9:00:12 AM: Timer ticked.
+6/12/2025 9:00:12 AM: Email check started.
+6/12/2025 9:00:12 AM: Error in CheckAndSendEmails: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 9:00:12 AM: Error sending CSV report: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+6/12/2025 9:00:29 AM: Service stopped.
+6/12/2025 9:00:47 AM: Service started.
+6/12/2025 9:01:47 AM: Timer ticked.
+6/12/2025 9:01:47 AM: Email check started.
+6/12/2025 9:01:47 AM: Total vendors processed: 43
+6/12/2025 9:01:47 AM: Email alerts sent successfully.
+6/12/2025 9:01:48 AM: Attachment email sending error: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+6/12/2025 9:01:48 AM: CSV report email sent.
+6/12/2025 9:02:47 AM: Timer ticked.
+6/12/2025 9:02:47 AM: Email check started.
+6/12/2025 9:02:47 AM: Total vendors processed: 43
+6/12/2025 9:02:47 AM: Email alerts sent successfully.
+6/12/2025 9:02:47 AM: Error sending CSV report: The process cannot access the file 'C:\VendorReports\2025-06-12_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/12/2025 9:03:47 AM: Timer ticked.
+6/12/2025 9:03:47 AM: Email check started.
+6/12/2025 9:03:47 AM: Total vendors processed: 43
+6/12/2025 9:03:47 AM: Email alerts sent successfully.
+6/12/2025 9:03:47 AM: Error sending CSV report: The process cannot access the file 'C:\VendorReports\2025-06-12_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/12/2025 9:04:47 AM: Timer ticked.
+6/12/2025 9:04:47 AM: Email check started.
+6/12/2025 9:04:47 AM: Total vendors processed: 43
+6/12/2025 9:04:47 AM: Email alerts sent successfully.
+6/12/2025 9:04:47 AM: Error sending CSV report: The process cannot access the file 'C:\VendorReports\2025-06-12_Vendors_Valid_More_Than_20_Days.csv' because it is being used by another process.
+6/12/2025 9:05:44 AM: Service stopped.

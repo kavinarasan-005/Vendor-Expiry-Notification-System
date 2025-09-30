@@ -1,0 +1,47 @@
+6/11/2025 9:32:30 AM: Service started.
+6/11/2025 9:32:56 AM: Service stopped.
+6/11/2025 9:32:57 AM: Service started.
+6/11/2025 9:33:57 AM: Timer ticked.
+6/11/2025 9:33:57 AM: Email check started.
+6/11/2025 9:33:57 AM: Checking: Vendor A - Expiry: 2025-06-26 - DaysToExpiry: 15 - DaysSinceExpiry: -15
+6/11/2025 9:33:57 AM: Checking: Vendor B - Expiry: 2025-05-27 - DaysToExpiry: -15 - DaysSinceExpiry: 15
+6/11/2025 9:33:57 AM: Exported 2 vendors to CSV at C:\Users\ACER\Desktop\Eros\VendorExpiryEmailService\VendorExpiryEmailService\bin\Debug\VendorExpiryReport.csv
+6/11/2025 9:33:58 AM: Email sending failed: Failure sending mail.
+6/11/2025 9:33:58 AM: Email check completed.
+6/11/2025 9:34:57 AM: Timer ticked.
+6/11/2025 9:34:57 AM: Email check started.
+6/11/2025 9:34:57 AM: Checking: Vendor A - Expiry: 2025-06-26 - DaysToExpiry: 15 - DaysSinceExpiry: -15
+6/11/2025 9:34:57 AM: Checking: Vendor B - Expiry: 2025-05-27 - DaysToExpiry: -15 - DaysSinceExpiry: 15
+6/11/2025 9:34:57 AM: Exported 2 vendors to CSV at C:\Users\ACER\Desktop\Eros\VendorExpiryEmailService\VendorExpiryEmailService\bin\Debug\VendorExpiryReport.csv
+6/11/2025 9:34:57 AM: Email sending failed: Failure sending mail.
+6/11/2025 9:34:57 AM: Email check completed.
+6/11/2025 9:35:57 AM: Timer ticked.
+6/11/2025 9:35:57 AM: Email check started.
+6/11/2025 9:35:57 AM: Checking: Vendor A - Expiry: 2025-06-26 - DaysToExpiry: 15 - DaysSinceExpiry: -15
+6/11/2025 9:35:57 AM: Checking: Vendor B - Expiry: 2025-05-27 - DaysToExpiry: -15 - DaysSinceExpiry: 15
+6/11/2025 9:35:57 AM: Exported 2 vendors to CSV at C:\Users\ACER\Desktop\Eros\VendorExpiryEmailService\VendorExpiryEmailService\bin\Debug\VendorExpiryReport.csv
+6/11/2025 9:35:57 AM: Email sending failed: Failure sending mail.
+6/11/2025 9:35:57 AM: Email check completed.
+6/11/2025 9:36:57 AM: Timer ticked.
+6/11/2025 9:36:57 AM: Email check started.
+6/11/2025 9:36:57 AM: Checking: Vendor A - Expiry: 2025-06-26 - DaysToExpiry: 15 - DaysSinceExpiry: -15
+6/11/2025 9:36:57 AM: Checking: Vendor B - Expiry: 2025-05-27 - DaysToExpiry: -15 - DaysSinceExpiry: 15
+6/11/2025 9:36:57 AM: Exported 2 vendors to CSV at C:\Users\ACER\Desktop\Eros\VendorExpiryEmailService\VendorExpiryEmailService\bin\Debug\VendorExpiryReport.csv
+6/11/2025 9:36:57 AM: Email sending failed: Failure sending mail.
+6/11/2025 9:36:57 AM: Email check completed.
+6/11/2025 9:37:57 AM: Timer ticked.
+6/11/2025 9:37:57 AM: Email check started.
+6/11/2025 9:37:57 AM: Checking: Vendor A - Expiry: 2025-06-26 - DaysToExpiry: 15 - DaysSinceExpiry: -15
+6/11/2025 9:37:57 AM: Checking: Vendor B - Expiry: 2025-05-27 - DaysToExpiry: -15 - DaysSinceExpiry: 15
+6/11/2025 9:37:57 AM: Exported 2 vendors to CSV at C:\Users\ACER\Desktop\Eros\VendorExpiryEmailService\VendorExpiryEmailService\bin\Debug\VendorExpiryReport.csv
+6/11/2025 9:37:57 AM: Email sending failed: Failure sending mail.
+6/11/2025 9:37:57 AM: Email check completed.
+6/11/2025 9:38:57 AM: Timer ticked.
+6/11/2025 9:38:57 AM: Email check started.
+6/11/2025 9:38:57 AM: Checking: Vendor A - Expiry: 2025-06-26 - DaysToExpiry: 15 - DaysSinceExpiry: -15
+6/11/2025 9:38:57 AM: Checking: Vendor B - Expiry: 2025-05-27 - DaysToExpiry: -15 - DaysSinceExpiry: 15
+6/11/2025 9:38:57 AM: Exported 2 vendors to CSV at C:\Users\ACER\Desktop\Eros\VendorExpiryEmailService\VendorExpiryEmailService\bin\Debug\VendorExpiryReport.csv
+6/11/2025 9:38:57 AM: Email sending failed: Failure sending mail.
+6/11/2025 9:38:57 AM: Email check completed.
+6/11/2025 9:57:21 AM: Service started.
+6/11/2025 9:58:19 AM: Service stopped.
